@@ -11,5 +11,5 @@
 }
 
 .selected{
-    border-color: rgb(158, 34, 34);
+    border: 3px solid rgb(162, 54, 54);
 }
