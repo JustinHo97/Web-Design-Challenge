@@ -1,0 +1,11 @@
+.home-img{
+    height: 150px;
+    width: 150px;
+    object-fit: scale-down;
+}
+
+.lg-home-img{
+    height: 200px;
+    width: 200px;
+    float: left;
+}
