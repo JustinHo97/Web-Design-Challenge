@@ -9,3 +9,7 @@
     width: 200px;
     float: left;
 }
+
+.selected{
+    border-color: rgb(158, 34, 34);
+}
